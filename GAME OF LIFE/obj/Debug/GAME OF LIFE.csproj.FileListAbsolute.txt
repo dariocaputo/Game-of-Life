@@ -1,0 +1,7 @@
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\bin\Debug\GAME OF LIFE.exe.config
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\bin\Debug\GAME OF LIFE.exe
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\bin\Debug\GAME OF LIFE.pdb
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\obj\Debug\GAME OF LIFE.csproj.CoreCompileInputs.cache
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\obj\Debug\GAME OF LIFE.exe
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\obj\Debug\GAME OF LIFE.pdb
+C:\Users\Darío\source\repos\GAME OF LIFE\GAME OF LIFE\obj\Debug\GAME OF LIFE.csprojAssemblyReference.cache
